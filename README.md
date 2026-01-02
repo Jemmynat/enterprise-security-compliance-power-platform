@@ -5,7 +5,7 @@ A Tier-1 telecom organization in Nigeria manages over 200 endpoint systems acros
 The organization relies on multiple security solutions to protect its infrastructure, including endpoint protection, data loss prevention, asset inventory, patch management, and system encryption tools.
 
 An internal audit revealed inconsistent deployment of these security agents across systems, leading to visibility gaps, delayed remediation, and increased security risk.
-
+![Home Screen](1.png)
 ---
 
 ## Problem Statement
