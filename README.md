@@ -1,10 +1,10 @@
-# Enterprise Security Compliance & Automation Solution (Telecom Case Study)
+# Enterprise Security Compliance Monitoring & Automation Solution (Telecom Case Study)
 
 ## Background
 A Tier-1 telecom organization in Nigeria manages over 200 endpoint systems across multiple states and regions. 
-The organization relies on multiple security solutions to protect its infrastructure, including endpoint protection, data loss prevention, asset inventory, patch management, and system encryption tools.
+The organization relies on multiple security solutions to protect its infrastructure, including endpoint protection, data loss prevention, asset inventory, patch management, and system encryption tools. An internal audit revealed inconsistent deployment of these security agents across systems, leading to visibility gaps, delayed remediation, and increased security risk.
 
-An internal audit revealed inconsistent deployment of these security agents across systems, leading to visibility gaps, delayed remediation, and increased security risk.
+
 ![Home Screen](1.png)
 ---
 
@@ -29,7 +29,9 @@ An interactive dashboard was designed to provide real-time visibility into secur
 - Overall enterprise compliance score  
 - Geo-compliance map across Nigeria  
 - Top states, regions, and departments by compliance level  
-- Executive-ready insights for decision-making  
+- Executive-ready insights for decision-making
+<Button>Dashboard<Button/>  Link to the folder enterprise-security-compliance-power-platform/02- Security Compliance Dashboard
+
 
 ---
 
@@ -43,7 +45,7 @@ A remediation and notification workflow was built to proactively manage non-comp
 - Automated reminders every 2 days until remediation  
 - User-triggered remediation confirmation  
 - Security team validation workflow  
-
+<Button>PowerApps<Button/>  Link to the folder enterprise-security-compliance-power-platform/03- Power Platform Automation (Power Apps & Power Automate)
 ---
 
 ### Section C: AI-Powered Information Security Chatbot
@@ -54,6 +56,7 @@ A generative AI chatbot was developed to support user awareness and self-service
 - Microsoft Teams and Outlook integration  
 - Post-conversation email summary to users  
 - Embedded chatbot access link for follow-up questions  
+<Button>Chatbot<Button/>  Link to the folder enterprise-security-compliance-power-platform/04- AI-Powered Information Security Chatbot
 
 ---
 
@@ -64,6 +67,7 @@ AI Builder was used to extract structured incident data from security alert emai
 - Automated extraction of incident details  
 - Structured storage in SharePoint-hosted Excel  
 - Daily 4pm consolidated incident report to security teams  
+<Button>AI builder<Button/>  Link to the folder enterprise-security-compliance-power-platform/05- Incident Email Intelligence (AI Builder)
 
 ---
 
@@ -72,6 +76,7 @@ A short executive-friendly awareness presentation was designed highlighting:
 - Risks associated with deepfake technology  
 - WhatsApp-based social engineering threats  
 - Practical mitigation strategies  
+<Button>Aareness<Button/>  Link to the folder enterprise-security-compliance-power-platform/06- Security Awareness & Education
 
 ---
 
