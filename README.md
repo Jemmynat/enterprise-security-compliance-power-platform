@@ -60,7 +60,7 @@ An interactive dashboard was designed to provide real-time visibility into secur
 ➡ See full module:  [**/02-powerbi-excel**](./02-powerbi-excel)
 
 
-![Dashboard](dbOverview.png)
+![Dashboard](Assets/images/dbOverview.png)
 
 ---
 
