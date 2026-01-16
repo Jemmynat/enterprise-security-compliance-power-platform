@@ -45,7 +45,7 @@ The platform was designed across four major layers:
 
 ## Core Solution Modules
 
-### 📊 Security Compliance Analytics (Excel & Power BI)
+### Module A: 📊 Security Compliance Analytics (Excel & Power BI)
 An interactive dashboard was designed to provide real-time visibility into security compliance status.
 
 **Key Features:**
@@ -61,17 +61,19 @@ An interactive dashboard was designed to provide real-time visibility into secur
 
 ---
 
-### Section B: Power Platform Automation (Power Apps & Power Automate)
-A remediation and notification workflow was built to proactively manage non-compliant systems.
+### Module B: ⚙ Power Platform Automation (Power Apps & Power Automate)
+A remediation and automated notification workflow system was built to proactively manage non-compliant systems.
 
 **Key Capabilities:**
-- Automated email and Microsoft Teams notifications to users  
-- Clear identification of missing security agents  
-- Escalation to line managers and IT support teams  
+- Automated email and Microsoft Teams notifications to users after detecting non-compliant systems   
+- Clear identification of specific missing security agents  
+- Escalation to line managers and IT support teams for unresolved risks 
 - Automated reminders every 2 days until remediation  
 - User-triggered remediation confirmation  
-- Security team validation workflow  
-<Button>PowerApps<Button/>  Link to the folder enterprise-security-compliance-power-platform/03- Power Platform Automation (Power Apps & Power Automate)
+- Security team validation of compliance workflow  
+
+➡ See full module:  [**/03-powerapps-powerautomate**](./03-powerapps-powerautomate)
+
 ---
 
 ### Section C: AI-Powered Information Security Chatbot
