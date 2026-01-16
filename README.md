@@ -1,25 +1,46 @@
-# Enterprise Security Compliance Monitoring & Automation Solution (Telecom Case Study)
+# Enterprise Security Compliance Monitoring & Automation Solution *(Telecom Case Study)*
 
-## Background
-A Tier-1 telecom organization in Nigeria manages over 200 endpoint systems across multiple states and regions. 
-The organization relies on multiple security solutions to protect its infrastructure, including endpoint protection, data loss prevention, asset inventory, patch management, and system encryption tools. An internal audit revealed inconsistent deployment of these security agents across systems, leading to visibility gaps, delayed remediation, and increased security risk.
-
+## Overview
+This project showcases an enterprise-grade security compliance and automation platform designed for a large telecom organization operating across multiple regions and states.
+The solution centralizes endpoint security visibility, automates remediation workflows, introduces AI-powered incident intelligence, and delivers a generative AI chatbot to improve security operations and user awareness.
+It demonstrates how Microsoft Power Platform tools can be combined to build a scalable, end-to-end enterprise solution.
+ 
 
 ![Home Screen](1.png)
----
-
-## Problem Statement
-- No centralized view of enterprise-wide security compliance  
-- Fragmented reports across multiple security tools  
-- Manual and delayed follow-up with non-compliant users  
-- Lack of automated escalation and remediation tracking  
-- Limited user awareness and self-service security support  
 
 ---
 
-## Solution Overview
+## Business Context
+The organization manages hundreds of systems and relies on multiple security solutions to protect its infrastructure, including endpoint protection, data loss prevention, asset inventory, patch management, and system encryption tools. 
+An internal audit revealed findings leading to visibility gaps, delayed remediation, and increased security risk. 
+- Inconsistent deployment of security agents across systems
+- Fragmented reporting across multiple security tools  
+- Manual and delayed remediation follow-ups with non-compliant users 
+- Limited real-time compliance visibility  
+- No centralized view of enterprise-wide security compliance
+- Lack of automated escalation and remediation tracking
+- Limited user awareness and self-service security support 
 
-### Section A: Security Compliance Dashboard (Excel & Power BI)
+---
+
+## Solution Architecture (High Level)
+
+The platform was designed across four major layers:
+
+1. **Analytics & Compliance Monitoring**  
+   Power BI and Excel dashboards provide real-time security compliance visibility.
+2. **Automation & Remediation**  
+   Power Apps and Power Automate workflows for notifications, escalations, and remediation tracking.
+3. **AI & Incident Intelligence**  
+   AI Builder solutions for extracting, structuring, and analyzing security incident data.
+4. **Generative AI & Self-Service**  
+   Smart chatbot integrated with Teams and email to support users and improve awareness.
+
+---
+
+## Core Solution Modules
+
+### 📊 Security Compliance Analytics (Excel & Power BI)
 An interactive dashboard was designed to provide real-time visibility into security compliance status.
 
 **Key Features:**
@@ -30,7 +51,8 @@ An interactive dashboard was designed to provide real-time visibility into secur
 - Geo-compliance map across Nigeria  
 - Top states, regions, and departments by compliance level  
 - Executive-ready insights for decision-making
-<Button>Dashboard<Button/>  Link to the folder enterprise-security-compliance-power-platform/02- Security Compliance Dashboard
+  
+➡ See full module: **/02-powerbi-excel**
 
 
 ---
