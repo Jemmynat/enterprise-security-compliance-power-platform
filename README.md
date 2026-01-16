@@ -1,8 +1,11 @@
 # Enterprise Security Compliance Monitoring & Automation Solution *(Telecom Case Study)*
 
 ## Overview
+
 This project showcases an enterprise-grade security compliance and automation platform designed for a large telecom organization operating across multiple regions and states.
+
 The solution centralizes endpoint security visibility, automates remediation workflows, introduces AI-powered incident intelligence, and delivers a generative AI chatbot to improve security operations and user awareness.
+
 It demonstrates how Microsoft Power Platform tools can be combined to build a scalable, end-to-end enterprise solution.
  
 
@@ -11,7 +14,9 @@ It demonstrates how Microsoft Power Platform tools can be combined to build a sc
 ---
 
 ## Business Context
-The organization manages hundreds of systems and relies on multiple security solutions to protect its infrastructure, including endpoint protection, data loss prevention, asset inventory, patch management, and system encryption tools. 
+
+The organization manages hundreds of systems and relies on multiple security solutions to protect its infrastructure, including endpoint protection, data loss prevention, asset inventory, patch management, and system encryption tools.
+
 An internal audit revealed findings leading to visibility gaps, delayed remediation, and increased security risk. 
 - Inconsistent deployment of security agents across systems
 - Fragmented reporting across multiple security tools  
@@ -52,8 +57,7 @@ An interactive dashboard was designed to provide real-time visibility into secur
 - Top states, regions, and departments by compliance level  
 - Executive-ready insights for decision-making
   
-➡ See full module: **/02-powerbi-excel**
-
+➡ See full module:  [**/02-powerbi-excel**](./02-powerbi-excel)
 
 ---
 
