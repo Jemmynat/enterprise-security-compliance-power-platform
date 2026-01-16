@@ -1,5 +1,4 @@
-# Security Compliance Analytics Layer  
-*(Power BI & Excel)*
+# Security Compliance Analytics Layer  *(Power BI & Excel)*
 
 ## Purpose
 This module represents the analytics layer of the enterprise security platform.  
