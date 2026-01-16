@@ -59,6 +59,9 @@ An interactive dashboard was designed to provide real-time visibility into secur
   
 ➡ See full module:  [**/02-powerbi-excel**](./02-powerbi-excel)
 
+
+![Dashboard](dbOverview.png)
+
 ---
 
 ### Module B: ⚙ Power Platform Automation (Power Apps & Power Automate)
@@ -76,35 +79,30 @@ A remediation and automated notification workflow system was built to proactivel
 
 ---
 
-### Section C: AI-Powered Information Security Chatbot
+### Module C: 🤖 AI-Powered Information Security Chatbot (Copilot Studio Agent)
 A generative AI chatbot was developed to support user awareness and self-service.
 
 **Features:**
-- Internet-enabled and local knowledge base integration  
+- Internet-enabled and local knowledge base integration
+- Generative AI security support chatbot   
 - Microsoft Teams and Outlook integration  
 - Post-conversation email summary to users  
 - Embedded chatbot access link for follow-up questions  
-<Button>Chatbot<Button/>  Link to the folder enterprise-security-compliance-power-platform/04- AI-Powered Information Security Chatbot
+
+➡ See full module:  [**/04-chatbot-ai**](./04-chatbot-ai)
 
 ---
 
-### Section D: Incident Email Intelligence (AI Builder)
+### Module D: 🧠 Incident Email Intelligence (AI Builder)
+
 AI Builder was used to extract structured incident data from security alert emails.
 
 **Outcomes:**
 - Automated extraction of incident details  
 - Structured storage in SharePoint-hosted Excel  
 - Daily 4pm consolidated incident report to security teams  
-<Button>AI builder<Button/>  Link to the folder enterprise-security-compliance-power-platform/05- Incident Email Intelligence (AI Builder)
 
----
-
-### Section E: Security Awareness & Education
-A short executive-friendly awareness presentation was designed highlighting:
-- Risks associated with deepfake technology  
-- WhatsApp-based social engineering threats  
-- Practical mitigation strategies  
-<Button>Aareness<Button/>  Link to the folder enterprise-security-compliance-power-platform/06- Security Awareness & Education
+➡ See full module: [**/05-ai-builder**](./05-ai-builder)
 
 ---
 
@@ -112,23 +110,26 @@ A short executive-friendly awareness presentation was designed highlighting:
 - Microsoft Power BI  
 - Microsoft Excel  
 - Power Apps  
-- Power Automate  
+- Power Automate
+- Power Virtual Agents / Copilot Agent
 - AI Builder  
 - SharePoint Online  
 - Microsoft Teams  
-- Outlook  
-- Autonomous Copilot Agent  
+- Outlook    
 
 ---
 
-## Key Outcomes
-- Centralized visibility of enterprise security posture  
-- Reduced remediation response time through automation  
-- Improved security awareness across users  
+## Key Metrics
+- Centralized visibility of enterprise security posture
+- Automated remediation and escalation workflows
+- Reduced manual remediation response time through automation  
+- Improved security awareness across users
+- AI-powered incident reports structuring 
 - Scalable and enterprise-ready Power Platform solution  
 
 ---
 
 ## Disclaimer
-This project is a technical case study created for assessment and portfolio demonstration purposes. 
-All data used is either simulated or anonymized.
+This project is a portfolio case study based on a technical assessment and solution design exercise.  
+All data, company names, and scenarios are simulated or anonymized and used strictly for demonstration purposes.
+
